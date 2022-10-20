@@ -1,0 +1,8 @@
+to stage one file only
+-git add filename
+
+to stage all file
+-git add .
+
+to commit
+-git commit -m "commitMsg"
