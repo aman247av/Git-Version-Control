@@ -1,0 +1,5 @@
+intialize with 
+- git init
+
+see status
+-git status
