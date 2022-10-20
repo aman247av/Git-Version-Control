@@ -1,2 +1,8 @@
 to see all commmits
 -git log
+
+to see diff from previous and uncommited file
+-git diff filename
+
+to rollback
+-git checkout filename
