@@ -6,3 +6,8 @@ to see diff from previous and uncommited file
 
 to rollback
 -git checkout filename
+
+set up remote repo
+-git init
+-git remote add origin <repo link>
+-git push -u origin master
