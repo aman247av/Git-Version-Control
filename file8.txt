@@ -1,3 +1,1 @@
 diff filename as conflict arises when merging
-
-changes in master as will as branching branch...pull request in github ...lets check
