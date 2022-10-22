@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 create new branch and work parallel with master branch....like two person want to work on two feature...one Post feature other Notification feature
 just create two branch of project
 -git branch <branch-name>
@@ -7,3 +8,7 @@ see all branches present in pro
 
 switch to branch
 -git checkout <branch-name>
+=======
+branched..
+same file name as in master branch
+>>>>>>> branching
