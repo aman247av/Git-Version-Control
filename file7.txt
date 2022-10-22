@@ -4,3 +4,6 @@ just create two branch of project
 
 see all branches present in pro
 -git branch
+
+switch to branch
+-git checkout <branch-name>
