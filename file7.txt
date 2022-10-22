@@ -1,0 +1,6 @@
+create new branch and work parallel with master branch....like two person want to work on two feature...one Post feature other Notification feature
+just create two branch of project
+-git branch <branch-name>
+
+see all branches present in pro
+-git branch
