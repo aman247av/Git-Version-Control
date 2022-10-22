@@ -1,0 +1,5 @@
+cloning remote repo
+-git clone <link>
+
+to see previous commits and log
+-git log
